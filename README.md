@@ -4,7 +4,8 @@ I used pgAdmin4 to manage PostgreSQL for a research project focused on people em
 
 For this project, I have designed tables to store the data from the CSV files, imported the CSV files into a SQL database, and worked on answering questions about the data. The project includes tasks related to data modeling, data engineering, and data analysis.
 
-<img width="424" alt="EntityRelationshipDiagram" src="https://github.com/MarcoN16/sql-challange/assets/150491559/1dbac6f1-0c5d-4dbc-8fa3-823657e84a12">
+<img width="672" alt="Diagram" src="https://github.com/MarcoN16/sql-challange/assets/150491559/1ae27174-f042-4304-a894-1f47705764d5">
+
 
 ## Data Analysis
 
